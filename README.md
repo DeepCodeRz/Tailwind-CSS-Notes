@@ -1,8 +1,7 @@
 # Learn Tailwind CSS - Scrimba
+---
 
 # **Tailwind CSS Documentation**
-
----
 
 ## **Background Classes & Shades**
 
