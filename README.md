@@ -195,3 +195,10 @@ Tailwind’s transition classes enable smooth effects when elements change state
 ## **Arbitrary Values**
 
 The `class-[property]` syntax in Tailwind allows you to set custom values for properties, offering flexibility for unique styling needs.
+
+```html
+<div class="w-[25px]">Text1</div>
+<div class="h-[3rem]">Text2</div>
+<div class="bg-[#ffffff]">Text3</div>
+
+```
